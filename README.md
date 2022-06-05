@@ -57,7 +57,7 @@
 </p>
 <br>
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=alpondith&custom_title=alpondith's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
+<!-- ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=alpondith&custom_title=alpondith's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545) -->
 
 <p align="center">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=alpondith&show_icons=true&theme=gruvbox&hide_border=true" />
