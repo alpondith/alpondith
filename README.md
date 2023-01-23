@@ -55,11 +55,16 @@
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
     </a>
 </p>
-<br>
 
-<!-- ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=alpondith&custom_title=alpondith's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545) -->
+<br>
 
 <p align="center">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=alpondith&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=alpondith&theme=gruvbox&hide_border=true" />
+</p>
+
+<br>
+
+<p align="center">
+    <a  href="https://www.buymeacoffee.com/alpondith" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p>
